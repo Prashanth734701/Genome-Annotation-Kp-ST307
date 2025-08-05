@@ -94,8 +94,8 @@ This work lays the foundation for downstream analyses such as druggability predi
 ## 📧 **Contact**
 
 For queries or collaborations:  
-**[Raghavendra S]** – [raghava.332410@gmail.com]  
-GitHub: [github.com/Raghu-102433]
+**[Prashanth.e]** – [prashantheprashanth584@gmail.com]  
+GitHub: [github.com/Prashanth734701]
 
 ## ⚙️ Setting Up the Conda Environment
 
